@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.hide{
+	display:none;
+}
+
+.on{
+	color:#39C;
+	text-decoration:underline;
+}
+
+.off{
+	color:#666;
+}
+
+#pic{
+	width:450px;
+}
+
+#ban{
+	width:610px;
+	margin:auto;
+	margin-top:10px;
+}
+
+#main{
+	margin-bottom:10px;
+	position:absolute;
+	left:155px;
+	top:50px;
+}
+
+#galimg{
+	position:absolute;
+	left:370px;
+	top:50px;
+}
+
+#albums a{
+	font-size:16px;
+}
+
+#albums{
+	margin-bottom:20px;
+	position:absolute;
+	left:0px;
+	top:50px;
+}
+
+#caption{
+	font-size:14px;
+	margin-left:80px;
+}
+
+#main a{
+	font-size:14px;
+}
+
+#wrap{
+	position:relative;
+	width:800px;
+	margin:auto;
+	padding:15px;
+}
+
+a{
+	text-decoration:none;
+	padding-right:10px;
+}
+
+a:link{
+	color:#666;
+}
+
+a:visited{
+	color:#666;
+}
+
+a:hover{
+	color:#333;
+}
+
+a:active{
+	color:#666;
+}
